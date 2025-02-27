@@ -127,3 +127,39 @@
     @apply bg-background text-foreground;
   }
 }
+
+h1 {
+  font-size: 2em; /* 32px if base font-size is 16px */
+  font-weight: bold;
+  margin: 0.67em 0;
+}
+
+h2 {
+  font-size: 1.5em; /* 24px */
+  font-weight: bold;
+  margin: 0.83em 0;
+}
+
+h3 {
+  font-size: 1.17em; /* 18.72px */
+  font-weight: bold;
+  margin: 1em 0;
+}
+
+h4 {
+  font-size: 1em; /* 16px */
+  font-weight: bold;
+  margin: 1.33em 0;
+}
+
+h5 {
+  font-size: 0.83em; /* 13.28px */
+  font-weight: bold;
+  margin: 1.67em 0;
+}
+
+h6 {
+  font-size: 0.67em; /* 10.72px */
+  font-weight: bold;
+  margin: 2.33em 0;
+}
